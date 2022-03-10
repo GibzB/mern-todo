@@ -1,0 +1,24 @@
+{
+  "name": "mern-todo",
+  "version": "1.0.0",
+  "description": "Getting started with MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGibesh/mern-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RGibesh/mern-todo/issues"
+  },
+  "homepage": "https://github.com/RGibesh/mern-todo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5"
+  }
+}
